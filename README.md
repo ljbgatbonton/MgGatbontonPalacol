@@ -12,14 +12,14 @@ Our Pisay Life Diaries is a 101 guide to the life of Pisay students. Pisay schol
 
 # Outline of the Five Webpages:
 ## Home page
-Introduction: includes the website description
-What is PSHS or Pisay?: brief description of the community and how the system works
-Who are Pisay Scholars?: gives an overview of the application process and pisay life
-Table of Contents: will help the users navigate through the five webpages
+* Introduction: includes the website description
+* What is PSHS or Pisay?: brief description of the community and how the system works
+* Who are Pisay Scholars?: gives an overview of the application process and pisay life
+* Table of Contents: will help the users navigate through the five webpages
 
 ## Life in Pisay
-Academic Life: includes projects, subjects and other academic related matters
-Extracurricular Activities: Clubs, Organizations and events
+* Academic Life: includes projects, subjects and other academic related matters
+* Extracurricular Activities: Clubs, Organizations and events
 
 ## Being a Pisay Scholar
 Benefits: free tuition, quality education, etc.
