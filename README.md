@@ -17,7 +17,7 @@ Our Pisay Life Diaries is a 101 guide to the life of Pisay students. Pisay schol
 
 # Outline of the Five Webpages:
 ## Home page
-* Introduction: includes the website description
+* <b>Introduction:</b> includes the website description
 * What is PSHS or Pisay?: brief description of the community and how the system works
 * Who are Pisay Scholars?: gives an overview of the application process and pisay life
 * Table of Contents: will help the users navigate through the five webpages
