@@ -7,10 +7,12 @@ Gatbonton, Liana Jamaine B. & Palacol, Raissa Bernice E.			CS Project Proposal
 
 # Working Website Title: Our Pisay Life Diaries
 
-Comprehensive Description:
+# Comprehensive Description:
+---
 Our Pisay Life Diaries is a 101 guide to the life of Pisay students. Pisay scholars’ daily lives can be very busy and hectic, but at the same time it can be fun and exciting as well. This website starts off with our application for grade 7 and National Competitive Examination (NCE). Then, it tackles our experiences and journeys here in Pisay. This includes our academic and extracurricular activities. Some of our subjects and school projects will also be presented on this website. More importantly, it will share our stories about our struggles, challenges and successes in Pisay. Overall, this website aims to encourage, inspire and motivate students as they navigate through the Pisay life. 
 
-Outline of the Five Webpages:
+# Outline of the Five Webpages:
+---
 Home page
 Introduction: includes the website description
 What is PSHS or Pisay?: brief description of the community and how the system works
