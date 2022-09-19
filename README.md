@@ -1,7 +1,9 @@
 # MgGatbontonPalacol
-Truth. Excellence. Service
-Mg09&18										09/19/22
-Gatbonton, Liana Jamaine B. & Palacol, Raissa Bernice E.			CS Project Proposal
+# Truth. Excellence. Service
+Mg09&18
+09/19/22
+Gatbonton, Liana Jamaine B. & Palacol, Raissa Bernice E.			
+CS Project Proposal
 9-Magnesium
 
 
