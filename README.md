@@ -23,24 +23,24 @@ Our Pisay Life Diaries is a 101 guide to the life of Pisay students. Pisay schol
 * **Table of Contents:** will help the users navigate through the five webpages
 
 ## Life in Pisay
-* Academic Life: includes projects, subjects and other academic related matters
-* Extracurricular Activities: Clubs, Organizations and events
+* **Academic Life:** includes projects, subjects and other academic related matters
+* **Extracurricular Activities:** Clubs, Organizations and events
 
 ## Being a Pisay Scholar
-* Benefits: free tuition, quality education, etc.
-* Highlights in Pisay: ex. New friends, more social interactions in f2f activities, realizations, reflections
-* Testimonials: students and teachers
+* **Benefits:** free tuition, quality education, etc.
+* **Highlights in Pisay:** ex. New friends, more social interactions in f2f activities, realizations, reflections
+* **Testimonials:** students and teachers
 
 ## Overcoming Struggles and Challenges in Pisay
-* Tips
-* Advice
-* Challenges and Struggles: personal stories, challenging requirements, etc.
-* Suggestions
-* Interviews: students and teachers
+* **Tips**
+* **Advice**
+* **Challenges and Struggles:** personal stories, challenging requirements, etc.
+* **Suggestions**
+* **Interviews:** students and teachers
 
 ## About Us
-* Authors: about who we are (Raissa and Jamaine)
-* Includes our messages, wishes, personal experiences, etc.
+* **Authors:** about who we are (Raissa and Jamaine)
+* **Includes our messages, wishes, personal experiences, etc.**
 
 
 # Initial Wireframe of the Homepage and Two Web Pages
