@@ -1,0 +1,60 @@
+body {
+  font-family:"Outfit", san-serif;
+}
+
+h1,h2 {
+  font-family:"Fraunces",serif;
+}
+
+
+
+
+#theTopMenu {
+  background-color: #2c4075;
+  overflow: hidden;
+  font-family: 'Outfit', sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+
+.topmenu ul {
+  width: 100%;
+  display: table;
+  text-align: center;
+}
+
+.topmenu ul li {
+  display: inline-block;
+  float: none;
+  padding: 0px 14px;
+}
+
+.topmenu li a {
+  color: #fff;
+  text-align: center;
+  padding: 14px 18px; 
+  text-decoration: none;
+}
+
+.topmenu a:hover {
+  background-color: #A0B9D2;
+  color: #2c4075;
+}
+
+.topmenu a.active {
+  background-color: #A0B9D2;
+  color: #2c4075;
+}
+
+#theFooter {
+  background-color: #EE7C4B;
+  color: white;
+  font-size: 14px;
+  letter-spacing: 1px;
+  padding: 15px;
+  text-align: center;
+  font-family: 'Outfit', sans-serif;
+  font-style: bold;
+}
