@@ -73,8 +73,24 @@ Sightlines - English Theater
 
 ## Being a Pisay Scholar
 * **Benefits:** free tuition, quality education, etc.
+   * Premier secondary science education
+   * Free tuition from grades 7 to 12
+   * Monthly Stipend
+   * Free loan of textbooks
+   * Participation in Science Fairs, Exchange Programs and Contests 
+
 * **Highlights in Pisay:** ex. New friends, more social interactions in f2f activities, realizations, reflections
+   * As the pandemic eases, PSHS-MC took the opportunity to go for full F2F classes starting School Year 2022-2023 effective August 31, 2022. The school follows the schedule of 4 academic days and 1 extracurricular day in a week. Academic days usually begin at 7:30 am and end at 4:15 pm. This includes subject discussions, laboratory activities and study periods. On the other hand, extracurricular activities are scheduled on Wednesdays. This includes two club periods and homeroom activities. Clubs in Pisay are made up of multi grade level club members. Students get to interact with different batches. This is a good venue to meet new friends, ates and kuya and experience various activities. 
+   * Life in Pisay is both fun and challenging. With the shift in F2F classes, students have been able to experience more lab activities, social interactions and classroom discussions. The curriculum is very extensive and rigorous. Quizzes, long tests and other exams are very challenging. However, despite the challenges, life in Pisay becomes lighter with the help of good friends and supportive teachers and staff. At the end of the day, all these things are important in preparation for college. 
+
 * **Testimonials:** students and teachers
+  * **Questions/Feeback:**
+     * How do you find Pisay Life?
+     * Why did you choose Pisay over other schools?
+     * How are you coping with the stress and pressure?
+     * What do you enjoy most in Pisay?
+     * What are your learnings in Pisay?
+
 
 ## Overcoming Struggles and Challenges in Pisay
 * **Tips**
