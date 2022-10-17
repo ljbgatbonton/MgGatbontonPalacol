@@ -59,7 +59,87 @@ h1,h2 {
   font-style: bold;
 }
 
-img {
+div > img {
   width: 100%;
   height: 100%;
+  margin-bottom: 1cm;
+}
+
+.row {
+	  display: flex;
+    white-space: normal;
+	}
+
+.column1, .column2 {
+	  flex: 50%;
+	  padding: 16px;
+	  height: 250px;
+	}
+
+.column1, .column2 img{
+  width: 35%;
+  height: 70%;
+}
+
+.column1, column2 p{
+  margin-bottom: 2cm;
+}
+
+.column3, .column4, .column5, .column6, .column7, .column8 {
+	  flex: 33.33%;
+	  height: 200px;
+	  padding: 10px;
+	  margin: 5px;
+	}
+
+.container, .container2 {
+	   display: flex;
+	}
+
+div > img {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 1cm;
+}
+
+tr, td {
+  border: 2px outset #0077b6;
+}
+
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+div > img {
+  width: 100%;
+  height: 100%;
+  margin-bottom: 1cm;
+}
+
+.batch {
+	  display: flex;
+    white-space: normal;
+	}
+
+.family {
+	  flex: 50%;
+	  padding: 16px;
+	  height: 250px;
+	}
+
+.group {
+	  flex: 33.33%;
+	  height: 200px;
+	  padding: 10px;
+	  margin: 5px;
+    border: 2px solid #EE7C4B;
+	}
+
+.box {
+	   display: flex;
+	}
+
+h5 {
+  color: #0077b6;
 }
