@@ -85,15 +85,19 @@ div > img {
   margin-bottom: 2cm;
 }
 
-.column3, .column4, .column5, .column6, .column7, .column8 {
-	  flex: 33.33%;
-	  height: 200px;
-	  padding: 10px;
+.column3, .column4, .column5, .column6 {
+	  flex: 50%;
+	   height: 50vh;
+      width: 100vh;
 	  margin: 5px;
+    white-space: normal;
+    box-sizing: border-box;
 	}
 
 .container, .container2 {
 	   display: flex;
+     height: 50vh;
+    margin-bottom: 7cm;
 	}
 
 div > img {
@@ -102,8 +106,18 @@ div > img {
   margin-bottom: 1cm;
 }
 
-tr, td {
+.table2 {
+  box-sizing: border-box;
+} 
+
+td, tr {
   border: 2px outset #0077b6;
+  font-size: 15px;
+}
+
+.column3 img{
+  width: 25%;
+  height: 75%;
 }
 
 html, body {
@@ -120,6 +134,8 @@ div > img {
 .batch {
 	  display: flex;
     white-space: normal;
+    overflow: auto; 
+    white-space: normal;
 	}
 
 .family {
@@ -128,12 +144,18 @@ div > img {
 	  height: 250px;
 	}
 
+.family > img {
+  height: 70%;
+  width: 35%;
+}
+
 .group {
 	  flex: 33.33%;
 	  height: 200px;
 	  padding: 10px;
 	  margin: 5px;
     border: 2px solid #EE7C4B;
+    overflow: auto;
 	}
 
 .box {
