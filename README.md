@@ -103,5 +103,14 @@ Sightlines - English Theater
 * **Authors:** about who we are (Raissa and Jamaine)
 * **Includes our messages, wishes, personal experiences, etc.**
 
+## References
+* Cristobal, R. R. (2022, October 9). PSHS-RACE. Facebook. https://web.facebook.com/Philippine.Science.High.School.System/photos/a.1656265191275219/3379136518988069/
+* Special curriculum. (n.d.). GOVPH. Retrieved October 28, 2022, from https://mc.pshs.edu.ph/special-curriculum/
+* Scholar, T. S. (2022, October 14). #NEWS | PSHS–MC holds first club fair since pandemic. Medium. https://medium.com/the-science-scholar/news-pshs-mc-holds-first-club-fair-since-pandemic-6ec1d24e0fe
+* Scholar, T. S. (2022a, September 26). #NEWS | PSHS–MC commemorates Martial Law’s 50th anniversary. Medium. https://medium.com/the-science-scholar/news-pshs-mc-commemorates-martial-laws-50th-anniversary-f0d9e6c9261b
+* Scholar, T. S. (2022a, September 12). #NEWS | PSHS–MC celebrates 58th Foundation Day - The Science Scholar. Medium. https://medium.com/the-science-scholar/news-pshs-mc-celebrates-58th-foundation-day-855cf273ab54
+* Scholar, T. S. (2022a, September 4). #NEWS | PSHS–MC back to full F2F classes - The Science Scholar. Medium. https://medium.com/the-science-scholar/news-pshs-mc-back-to-full-f2f-classes-60da0b019182
+* Kyle Demot. (2018, August 13). Philippine Science High School CARC NCE Advertisement. YouTube. https://www.youtube.com/watch?v=fbleP4nn3Fg
+* Bubut, A. A. (2019, July 23). How to Survive Your First Week in PISAY (Philippine Science High School/PSHS) – Frugal Teacher Mommy. https://frugalteachermommy.com/2019/07/23/how-to-survive-your-first-week-in-pisay-philippine-science-high-school-pshs/
 
 # Initial Wireframe of the Homepage and Two Web Pages
