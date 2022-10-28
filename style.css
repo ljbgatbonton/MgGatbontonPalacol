@@ -6,36 +6,79 @@ h1,h2 {
   font-family:"Fraunces",serif;
 }
 
+* {
+  box-sizing:border-box;
+}
 
+p {
+  text-align: justify;
+}
 
+div > img {
+  width: 100%;
+  height: 100%;
+}
+
+.row {
+	  display: flex;
+    white-space: normal;
+	}
+
+.column {
+	  flex: 50%;
+	  padding: 0.5cm;
+    height: 14cm;
+    overflow: auto;
+	}
+
+.column img{
+  width: 45%;
+  height: 45%;
+}
+
+#ilovepisay {
+  margin-top:-40px;
+  z-index: 0;
+  position: absolute;
+  text-align: center;
+}
+
+#diaries {
+  z-index: 3;
+  text-align: center;
+  position: absolute;
+  color: white;
+}
 
 #theTopMenu {
   background-color: #2c4075;
-  overflow: hidden;
   font-family: 'Outfit', sans-serif;
   font-size: 14px;
   text-transform: uppercase;
   letter-spacing: 2px;
+  padding: 1px;
 }
 
 
 .topmenu ul {
   width: 100%;
-  display: table;
   text-align: center;
+  padding: 10px 15px;
+
 }
 
 .topmenu ul li {
   display: inline-block;
   float: none;
-  padding: 0px 14px;
+  margin: 0px 15px;
 }
 
-.topmenu li a {
+.topmenu a {
   color: #fff;
   text-align: center;
-  padding: 14px 18px; 
   text-decoration: none;
+  padding: 10px 25px;
+
 }
 
 .topmenu a:hover {
@@ -48,6 +91,7 @@ h1,h2 {
   color: #2c4075;
 }
 
+
 #theFooter {
   background-color: #EE7C4B;
   color: white;
@@ -59,45 +103,85 @@ h1,h2 {
   font-style: bold;
 }
 
-div > img {
-  width: 100%;
-  height: 100%;
-  margin-bottom: 1cm;
+#theFooter p{
+  text-align: center;
 }
 
-.row {
-	  display: flex;
-    white-space: normal;
-	}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
 
-.column1, .column2 {
+.dropdown-content {
+  display: none;
+  background: #A0B9D2;
+  position: absolute;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  min-width: 300px;
+  margin-top: 10px;
+}
+
+
+.dropdown-content a {
+  color: #fff;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {color: #2c4075; }
+.dropdown:hover .dropdown-content {display: block; padding: 15px; }
+
+div{
+  margin: 1px;
+}
+
+.column3, .column4 {
 	  flex: 50%;
-	  padding: 16px;
-	  height: 250px;
-	}
-
-.column1, .column2 img{
-  width: 35%;
-  height: 70%;
-}
-
-.column1, column2 p{
-  margin-bottom: 2cm;
-}
-
-.column3, .column4, .column5, .column6 {
-	  flex: 50%;
-	   height: 50vh;
-      width: 100vh;
-	  margin: 5px;
-    white-space: normal;
+	  height: 14cm;
+    margin: 0.5cm;
     box-sizing: border-box;
+    padding: 2px;
+    overflow: auto;
 	}
 
-.container, .container2 {
-	   display: flex;
-     height: 50vh;
-    margin-bottom: 7cm;
+.column3 h2, .column4 h2, .column5 h2, .column6 h2 {
+  background-color: #A0B9D2; 
+}
+
+.life {
+  padding: 2px;
+  margin: 0.5cm;
+}
+
+ .column5{
+	  flex: 40%;
+	  height: 17cm;
+    margin: 0.5cm;
+    box-sizing: border-box;
+    padding: 2px;
+    overflow: auto;
+	}
+
+.column6 {
+	  flex: 60%;
+	  height: 17cm;
+    margin: 0.5cm;
+    box-sizing: border-box;
+    padding: 2px;
+    overflow: auto;
+	}
+
+.container{
+	  display: flex;
+    overflow: auto;
+    height: 15cm;
+	}
+
+.container2 {
+	  display: flex;
+    overflow: auto;
+    height: 18cm;
 	}
 
 div > img {
@@ -111,13 +195,24 @@ div > img {
 } 
 
 td, tr {
-  border: 2px outset #0077b6;
+  border: 2px outset #8591C3;
   font-size: 15px;
 }
 
-.column3 img{
-  width: 25%;
-  height: 75%;
+.column3 > img{
+  width: 4cm;
+  height: 6cm;
+}
+
+.h1 {
+  background-color: #8591C3; 
+}
+
+.column6 > img {
+  float: right; 
+  height: 4.5cm;
+  width: 5.5cm;
+  padding: 2px;
 }
 
 html, body {
@@ -131,37 +226,67 @@ div > img {
   margin-bottom: 1cm;
 }
 
-.batch {
+.batch  {
 	  display: flex;
-    white-space: normal;
-    overflow: auto; 
-    white-space: normal;
+    overflow: auto;
 	}
 
 .family {
 	  flex: 50%;
-	  padding: 16px;
-	  height: 250px;
+	  padding: 0.5cm;
+    width: 20cm; 
+    overflow: auto;
 	}
 
 .family > img {
-  height: 70%;
-  width: 35%;
+  height: 7cm;
+  width: 7cm;
 }
 
 .group {
 	  flex: 33.33%;
-	  height: 200px;
-	  padding: 10px;
-	  margin: 5px;
-    border: 2px solid #EE7C4B;
-    overflow: auto;
+	  padding: 0.5cm;
+    margin: 2px; 
+    border: 2px solid #8591C3;
 	}
 
 .box {
-	   display: flex;
+	  display: flex;
+    margin-bottom: 1cm;
 	}
 
 h5 {
   color: #0077b6;
+}
+
+.h1a{
+  background-color:#A0B9D2;
+}
+
+.text {
+  flex: 50%;
+	padding: 0.5cm;
+	margin: 2px;
+} 
+
+.images {
+  width: 10cm;
+  height: 10cm;
+  flex: 50%;
+	padding: 1px;
+	margin: 1px;
+}
+
+.benefits {
+  width: 100%;
+  height: 12cm;
+  overflow: auto; 	  
+  display: flex;
+}
+
+.AboutUs {
+  padding: 2px;
+  margin: 0.5cm;
+  text-align: justify;
+  height: 5cm;
 }
